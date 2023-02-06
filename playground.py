@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+""" Just some additional comments """
 
 def main():
     print("test")
